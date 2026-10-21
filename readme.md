@@ -1,7 +1,7 @@
 # DLSS 5 Swapper – NVIDIA Graphics Tools & Game Configuration
 
 <div align="center">
-  <img src="https://www.instalki.pl/wp-content/uploads/program/icons/2026-09-02-ts3_thumbs-800-p-2.webp" width="220" alt="DLSS 5 Swapper Logo"/>
+  <img src="https://camo.githubusercontent.com/865754c2acaabfc63a7ad68c3d12a8e981dca9cf6829141060c2c9785416afcf/68747470733a2f2f646c737335737761707065722e6f72672f696d67732f66656174757265732f444c53532d352d4d414e414745522d4c4f474f2e77656270" width="220" alt="DLSS 5 Swapper Logo"/>
 </div>
 
 <br>
